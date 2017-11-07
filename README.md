@@ -1,2 +1,4 @@
 # Custom Magento2 themes.js file
-# /dev/tools/grunt/temp/themes.js
+
+Upload into this Magento2 folder
+/dev/tools/grunt/temp/themes.js
